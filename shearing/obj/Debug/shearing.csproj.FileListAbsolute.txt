@@ -1,0 +1,6 @@
+c:\users\hafizhamza\documents\visual studio 2012\Projects\shearing\shearing\bin\Debug\shearing.exe.config
+c:\users\hafizhamza\documents\visual studio 2012\Projects\shearing\shearing\bin\Debug\shearing.exe
+c:\users\hafizhamza\documents\visual studio 2012\Projects\shearing\shearing\bin\Debug\shearing.pdb
+c:\users\hafizhamza\documents\visual studio 2012\Projects\shearing\shearing\obj\Debug\shearing.csprojResolveAssemblyReference.cache
+c:\users\hafizhamza\documents\visual studio 2012\Projects\shearing\shearing\obj\Debug\shearing.exe
+c:\users\hafizhamza\documents\visual studio 2012\Projects\shearing\shearing\obj\Debug\shearing.pdb
